@@ -10,3 +10,4 @@ setTimeout(() => {
 }, 2000);
 console.groupEnd();
 console.table(['Péricles', 'Zapata']);
+console.assert(1 === '1', 'Não é igual');
